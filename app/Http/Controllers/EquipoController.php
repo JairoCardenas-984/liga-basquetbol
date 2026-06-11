@@ -58,4 +58,10 @@ class EquipoController extends Controller
         return redirect()->route('equipos.index')
             ->with('success', 'Equipo eliminado correctamente.');
     }
+    public function clasificacion()
+{
+    $equipos = Equipo::orderBy('nombre')->get();
+
+    return view('equipos.clasificacion', compact('equipos'));
+}
 }
