@@ -17,7 +17,9 @@
                     <tr>
                         <td>{{ $index + 1 }}</td>
                         <td>{{ $equipo->nombre }}</td>
-                        <td>{{ $equipo->ciudad }}</td>
+                        <td>{{ $equipo->ciudad }}</td>git add .
+git commit -m "Implementar clasificación de equipos"
+git push
                         <td>{{ $equipo->entrenador }}</td>
                     </tr>
                 @endforeach
