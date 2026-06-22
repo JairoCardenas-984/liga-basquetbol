@@ -12,6 +12,7 @@
             <a href="{{ route('jugadores.index') }}">Gestión de jugadores</a>
             <a href="{{ route('partidos.index') }}">Registro de partidos</a>
             <a href="{{ route('estadisticas.index') }}">Estadísticas básicas</a>
+            <a href="{{ route('clasificacion') }}"class="...">Clasificación de equipos</a>
         </div>
     </div>
 </x-app-layout>
