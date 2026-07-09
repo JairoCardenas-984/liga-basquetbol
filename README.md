@@ -12,10 +12,10 @@ Desarrollar una aplicación web que facilite la gestión de una liga de básquet
 
 ##  Funcionalidades Principales
 
--  Gestión de equipos.
--  Gestión de jugadores.
--  Registro de partidos.
--  Visualización de estadísticas.
+- Nos ayuda a la gestión de equipos.
+-  Mejor gestión de jugadores.
+-  La facilidad de registro de partidos.
+-  Es muy bueno con la visualización de estadísticas.
 -  Clasificación de equipos.
 -  Sistema de autenticación (Login y Registro).
 -  Dashboard con acceso a los módulos principales.
