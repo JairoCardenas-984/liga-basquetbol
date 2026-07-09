@@ -124,7 +124,7 @@ http://127.0.0.1:8000
 ##  Integrantes
 
 - Kevin Cárdenas
-- Naysu monge
+- Naydu monge
 - Maricela Quino
 
 ---
