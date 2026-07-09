@@ -1,3 +1,10 @@
+<h1 style="
+font-size:35px;
+font-weight:bold;
+margin-bottom:30px;
+">
+🏆 Clasificación General
+</h1>
 <x-app-layout>
     <div class="container">
         <h2>Clasificación de Equipos</h2>

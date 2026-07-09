@@ -26,6 +26,17 @@
             <main>
                 {{ $slot }}
             </main>
+            <footer style="
+background:#0f172a;
+color:white;
+text-align:center;
+padding:20px;
+margin-top:50px;
+">
+
+Sistema de Gestión de Liga de Básquetbol © 2026
+
+</footer>
         </div>
     </body>
 </html>

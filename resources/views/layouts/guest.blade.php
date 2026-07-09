@@ -14,8 +14,8 @@
     <body>
         <div class="min-h-screen flex flex-col sm:justify-center items-center pt-6 sm:pt-0">
             <div>
-                <div class="auth-title">Liga de Básquetbol</div>
-                <div class="auth-subtitle">Sistema de gestión deportiva</div>
+                <div class="auth-title"></div>
+                <div class="auth-subtitle"></div>
             </div>
 
             <div class="w-full sm:max-w-md mt-6 px-6 py-4 bg-white shadow-md overflow-hidden sm:rounded-lg">
