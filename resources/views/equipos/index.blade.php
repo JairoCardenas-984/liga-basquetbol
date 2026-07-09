@@ -1,10 +1,17 @@
+<h1 style="
+font-size:35px;
+font-weight:bold;
+margin-bottom:30px;
+">
+🏀 Gestión de Equipos
+</h1>
 <x-app-layout>
     <x-slot name="header">
         <h2>Gestión de Equipos</h2>
     </x-slot>
 
     <div style="padding: 30px;">
-        <a href="{{ route('equipos.create') }}">Crear equipo</a>
+        <a href="{{ route('equipos.create') }}"class="auth-button">Nuevo Equipo</a>
         |
         <a href="{{ route('jugadores.index') }}">Ver jugadores</a>
 
